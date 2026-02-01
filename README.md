@@ -2,7 +2,9 @@
 
 > Track your GitHub impact and discover where you rank among developers worldwide
 
-[![Live Demo](https://img.shields.io/badge/demo-live-success)](https://devmetric.com)
+ [![🌐 Visit DevMetric.app](https://img.shields.io/badge/Visit-DevMetric.app-blue?style=for-the-badge&logo=appveyor)](https://devmetric.app)
+
+[![Live Demo](https://img.shields.io/badge/demo-live-success)](https://devmetric.app)
 [![Status](https://img.shields.io/badge/status-beta-blue)]()
 
 ---
@@ -69,7 +71,7 @@ DevMetric analyzes your GitHub activity and ranks you against developers in your
 
 ## 🔗 Links
 
-- 🌐 **Live App:** https://devmetric.com  
+- 🌐 **Live App:** https://devmetric.app 
 - 📧 **Contact:** corywolf333@gmail.com
 - 💼 **LinkedIn:** [https://linkedin.com/in/yourprofile  ](https://www.linkedin.com/in/cory-wolf-64b441231/)
 
@@ -79,7 +81,7 @@ DevMetric analyzes your GitHub activity and ranks you against developers in your
 
 Currently in **Beta** — accepting waitlist signups for premium features.
 
-👉 [Join the Waitlist](https://devmetric.com)
+👉 [Join the Waitlist](https://devmetric.app)
 
 ---
 
