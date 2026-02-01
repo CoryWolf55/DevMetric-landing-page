@@ -1,182 +1,113 @@
-# \# 🚀 DevMetric - Developer Analytics \& Ranking Platform
+## 🚀 DevMetric — Developer Analytics & Ranking Platform
 
-# 
+> Track your GitHub impact and discover where you rank among developers worldwide
 
-# > Track your GitHub impact and discover where you rank among developers worldwide
+[![Live Demo](https://img.shields.io/badge/demo-live-success)](https://devmetric.com)
+[![Status](https://img.shields.io/badge/status-beta-blue)]()
 
-# 
+---
 
-# \[!\[Live Demo](https://img.shields.io/badge/demo-live-success)](https://devmetric.com)
+## 📊 Overview
 
-# \[!\[Status](https://img.shields.io/badge/status-beta-blue)]()
+DevMetric analyzes your GitHub activity and ranks you against developers in your age range. Get insights into your coding patterns, track your growth, and see how you stack up globally.
 
-# 
+---
 
-# \## 📊 Overview
+## ✨ Key Features
 
-# 
+- 📈 **Real-time Analytics** — Live tracking of commits, PRs, and issues  
+- 🏆 **Percentile Ranking** — See where you stand vs peers  
+- 🔥 **Contribution Heatmap** — Visualize your coding patterns  
+- 📊 **Interactive Dashboard** — Clean, responsive interface  
+- 🎯 **DevMetric Score** — Comprehensive developer rating system  
+- 🌍 **Global Leaderboards** — Compare yourself worldwide  
+- 🎨 **Shareable Badges** — Show off your rank  
 
-# DevMetric analyzes your GitHub activity and ranks you against developers in your age range. Get insights into your coding patterns, track your growth, and see how you stack up globally.
+---
 
-# 
+## 🖼️ Screenshots
 
-# \## ✨ Key Features
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
 
-# 
+### Leaderboard
+![Leaderboard](screenshots/leaderboard.png)
 
-# \- 📈 \*\*Real-time Analytics\*\* - Live tracking of commits, PRs, and issues
+### Home Page
+![HomePage](screenshots/homepage.png)
 
-# \- 🏆 \*\*Percentile Ranking\*\* - See where you stand vs peers
+---
 
-# \- 🔥 \*\*Contribution Heatmap\*\* - Visualize your coding patterns
+## 🛠️ Tech Stack
 
-# \- 📊 \*\*Interactive Dashboard\*\* - Beautiful, responsive interface
+### Frontend
+- React 18  
+- Vite  
+- React Router  
+- Custom CSS animations  
+- Chart.js  
 
-# \- 🎯 \*\*DevMetric Score\*\* - Comprehensive developer rating system
+### Backend
+- FastAPI (Python 3.14)  
+- GitHub OAuth  
+- Real-time data processing  
 
-# \- 🌍 \*\*Global Leaderboards\*\* - Compete with developers worldwide
+### Infrastructure
+- Vercel / Netlify  
+- MySQL  
+- Redis  
 
-# \- 🎨 \*\*Shareable Badges\*\* - Show off your rank
+---
 
-# 
+## 🎯 Use Cases
 
-# \## 🖼️ Screenshots
+- **Job Seekers** — Quantify your skills with verified metrics  
+- **Students** — Build a portfolio that stands out  
+- **Developers** — Track growth and maintain consistency  
 
-# 
+---
 
-# \### Dashboard
+## 🔗 Links
 
-# !\[Dashboard](screenshots/dashboard.png)
+- 🌐 **Live App:** https://devmetric.com  
+- 📧 **Contact:** corywolf333@gmail.com
+- 💼 **LinkedIn:** [https://linkedin.com/in/yourprofile  ](https://www.linkedin.com/in/cory-wolf-64b441231/)
 
-# 
+---
 
-# \### Leaderboard
+## 🚀 Status
 
-# !\[Leaderboard](screenshots/leaderboard.png)
+Currently in **Beta** — accepting waitlist signups for premium features.
 
-# 
+👉 [Join the Waitlist](https://devmetric.com)
 
-# \### Profile Card
+---
 
-# !\[HomePage](screenshots/homepage.png)
+## 📝 About
 
-# 
+DevMetric solves a common problem: developers lack a standardized way to quantify GitHub activity.
 
-# \## 🛠️ Tech Stack
+We use **percentile-based rankings** to provide meaningful context.
 
-# 
+**Why percentiles?**  
+Raw numbers don’t tell the full story. Being in the top 10% of developers in your age group gives recruiters and developers real perspective.
 
-# \*\*Frontend:\*\*
+---
 
-# \- React 18
+## 🏗️ Development
 
-# \- Vite
+This is a **proprietary project**. The source code is closed, but the live demo is publicly available.
 
-# \- React Router
+Interested in collaborating?  
+📬 corywolf333@gmail.com
 
-# \- Custom CSS animations
+---
 
-# \- Chart.js for visualizations
+## 📄 License
 
-# 
+Copyright © 2026 DevMetric.  
+All rights reserved.
 
-# \*\*Backend:\*\*
+---
 
-# \- FastAPI, Python 3.14
-
-# \- GitHub OAuth
-
-# \- Real-time data processing
-
-# 
-
-# \*\*Infrastructure:\*\*
-
-# \- Vercel / Netlify
-
-# \- MySQL
-
-# \- Redis caching
-
-# 
-
-# \## 🎯 Use Cases
-
-# 
-
-# \- \*\*Job Seekers:\*\* Quantify your skills with verified metrics
-
-# \- \*\*Students:\*\* Build a portfolio that stands out
-
-# \- \*\*Developers:\*\* Track your growth and maintain consistency
-
-# 
-
-# \## 🔗 Links
-
-# 
-
-# \- 🌐 \*\*Live Application:\*\* \[devmetric.com](https://devmetric.com)
-
-# \- 📧 \*\*Contact:\*\* your@email.com
-
-# \- 💼 \*\*LinkedIn:\*\* \[Your Profile](https://linkedin.com/in/yourprofile)
-
-# \- 🐦 \*\*Twitter:\*\* \[@devmetric](https://twitter.com/devmetric)
-
-# 
-
-# \## 🚀 Status
-
-# 
-
-# Currently in \*\*Beta\*\* - accepting waitlist signups for premium features.
-
-# 
-
-# \[Join Waitlist](https://devmetric.com/pricing)
-
-# 
-
-# \## 📝 About
-
-# 
-
-# DevMetric was built to solve a common problem: developers have no standardized way to quantify their GitHub activity. We provide percentile-based rankings that give context to your contributions.
-
-# 
-
-# \*\*Why percentiles?\*\* Raw numbers don't tell the whole story. Being in the top 10% of developers your age is meaningful context for recruiters and yourself.
-
-# 
-
-# \## 🏗️ Development
-
-# 
-
-# This is a proprietary project. The code is closed-source, but feel free to check out the live demo!
-
-# 
-
-# Interested in collaborating? Reach out at \[your@email.com](mailto:your@email.com)
-
-# 
-
-# \## 📄 License
-
-# 
-
-# Copyright © 2026 DevMetric. All rights reserved.
-
-# 
-
-# ---
-
-# 
-
-# \*\*Note:\*\* This repository serves as a public showcase. Source code is proprietary.
-
-# 
-
-# ⭐ Star this repo if you find the project interesting!
-
+⭐ Star this repo if you find the project interesting!
